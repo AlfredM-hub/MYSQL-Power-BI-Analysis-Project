@@ -1,2 +1,2 @@
 # MYSQL-Power-BI-Analysis-Project
-This is a Social Media Usage Analyis project whereby i have used my skill and knowledge in MySQL for data cleaning and exploration then from the insghts generated, I have implemented interactive visualizations in Power BI.
+This is a Social Media Applications Analysis project in which I have used my skills and knowledge in MySQL to clean and explore data. Based on the insights generated, I have implemented interactive visualizations in Power BI.
